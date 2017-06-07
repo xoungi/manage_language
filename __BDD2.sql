@@ -20,6 +20,9 @@ SET time_zone = "+00:00";
 -- Base de données :  `shareboard`
 --
 
+CREATE DATABASE shareboard;
+USE shareboard;
+
 -- --------------------------------------------------------
 
 --
